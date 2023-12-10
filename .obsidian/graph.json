@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag: #map  ",
+      "color": {
+        "a": 1,
+        "rgb": 9338339
+      }
+    },
+    {
+      "query": "path:Атлас/Заметки/Идеи",
+      "color": {
+        "a": 1,
+        "rgb": 6084302
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.32618607516944,
+  "lineSizeMultiplier": 0.517805642633229,
+  "collapse-forces": false,
+  "centerStrength": 0.3828125,
+  "repelStrength": 13.4684244791667,
+  "linkStrength": 0.929280598958333,
+  "linkDistance": 61,
+  "scale": 0.6849574419937802,
+  "close": true
+}

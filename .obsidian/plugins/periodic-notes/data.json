@@ -1,0 +1,89 @@
+{
+  "installedVersion": "1.0.0-beta1",
+  "activeCalendarSet": "Default",
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": true,
+  "calendarSets": [
+    {
+      "day": {
+        "enabled": true,
+        "format": "",
+        "folder": "Календарь/Записи",
+        "openAtStartup": false,
+        "templatePath": "Атлас/Утилиты/Шаблоны/Template, Properties, Daily Note (Kit).md"
+      },
+      "week": {
+        "enabled": true,
+        "format": "YYYY-MM-[w]ww",
+        "folder": "Календарь/Записи",
+        "openAtStartup": false,
+        "templatePath": "Атлас/Утилиты/Шаблоны/Template, Properties, Daily Note (Kit).md"
+      },
+      "month": {
+        "enabled": true,
+        "format": "",
+        "folder": "Календарь/Записи",
+        "openAtStartup": false,
+        "templatePath": "Атлас/Утилиты/Шаблоны/Template, Properties, Daily Note (Kit).md"
+      },
+      "quarter": {
+        "enabled": false,
+        "format": "",
+        "folder": "Календарь/Записи",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "year": {
+        "enabled": false,
+        "format": "",
+        "folder": "Календарь/Записи",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "id": "Default",
+      "ctime": "2022-04-26T16:19:37-07:00"
+    },
+    {
+      "day": {
+        "folder": "",
+        "enabled": false
+      },
+      "week": {},
+      "month": {},
+      "quarter": {},
+      "year": {},
+      "id": "Reliable Human",
+      "ctime": "2023-05-25T20:22:55-07:00"
+    }
+  ],
+  "enableTimelineComplication": true,
+  "daily": {
+    "folder": "Calendar/2022",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "YYYY-MM-DD-[w]ww",
+    "folder": "Calendar/2022",
+    "template": "",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": "Calendar/2022/Monthly",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": "",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": "",
+    "enabled": true
+  }
+}

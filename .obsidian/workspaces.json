@@ -1,0 +1,765 @@
+{
+  "Blank Slate": {
+    "main": {
+      "id": "c4f7fdb608baf8e1",
+      "type": "split",
+      "children": [
+        {
+          "id": "634921cbea09ea9f",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "ae3f2dfe7bb3ed31",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "empty",
+                "state": {}
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "vertical"
+    },
+    "left": {
+      "id": "440b3841429709ed",
+      "type": "split",
+      "children": [
+        {
+          "id": "b208c03cadd231ee",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "dddbab8b18fd423a",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "file-explorer",
+                "state": {
+                  "sortOrder": "byModifiedTime"
+                }
+              }
+            },
+            {
+              "id": "77966b04a7f238ed",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "search",
+                "state": {
+                  "query": "",
+                  "matchingCase": true,
+                  "explainSearch": false,
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "byModifiedTime"
+                }
+              }
+            },
+            {
+              "id": "f2f067fa401a0574",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "recent-files",
+                "state": {}
+              }
+            },
+            {
+              "id": "94123a5a32c35466",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "bookmarks",
+                "state": {}
+              }
+            },
+            {
+              "id": "1dc0cb1cebc39098",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "calendar",
+                "state": {}
+              }
+            },
+            {
+              "id": "24c5234b551bc15b",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "file-tree-view",
+                "state": {}
+              }
+            },
+            {
+              "id": "ea94a81f83ae39f4",
+              "type": "leaf",
+              "state": {
+                "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+                "state": {}
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "horizontal",
+      "width": 297.5172233581543
+    },
+    "right": {
+      "id": "7a43a6c530e72e44",
+      "type": "split",
+      "children": [
+        {
+          "id": "ea89fdbc5439f479",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "4f6e4ddebde66a86",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "tag",
+                "state": {
+                  "sortOrder": "alphabetical",
+                  "useHierarchy": true
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "53bf6d97e5774261",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "4fd5ddab0d74cf4f",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "localgraph",
+                "state": {
+                  "options": {
+                    "collapse-filter": false,
+                    "search": "",
+                    "localJumps": 2,
+                    "localBacklinks": true,
+                    "localForelinks": true,
+                    "localInterlinks": true,
+                    "showTags": true,
+                    "showAttachments": true,
+                    "hideUnresolved": false,
+                    "collapse-color-groups": false,
+                    "colorGroups": [
+                      {
+                        "query": "tag:#effort",
+                        "color": {
+                          "a": 1,
+                          "rgb": 16753485
+                        }
+                      },
+                      {
+                        "query": "tag:#source",
+                        "color": {
+                          "a": 1,
+                          "rgb": 5402336
+                        }
+                      },
+                      {
+                        "query": "tag:#output",
+                        "color": {
+                          "a": 1,
+                          "rgb": 16735324
+                        }
+                      },
+                      {
+                        "query": "tag:#note",
+                        "color": {
+                          "a": 1,
+                          "rgb": 5431378
+                        }
+                      },
+                      {
+                        "query": "tag:#people",
+                        "color": {
+                          "a": 1,
+                          "rgb": 16743138
+                        }
+                      }
+                    ],
+                    "collapse-display": false,
+                    "showArrow": false,
+                    "textFadeMultiplier": -1,
+                    "nodeSizeMultiplier": 1,
+                    "lineSizeMultiplier": 1,
+                    "collapse-forces": false,
+                    "centerStrength": 0.518713248970312,
+                    "repelStrength": 10,
+                    "linkStrength": 1,
+                    "linkDistance": 250,
+                    "scale": 0.4275106077008007,
+                    "close": true
+                  }
+                }
+              }
+            },
+            {
+              "id": "90d026528dc7103b",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "outline",
+                "state": {}
+              }
+            }
+          ]
+        },
+        {
+          "id": "56111b6032390be0",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "d535bd36dbc98e0b",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "backlink",
+                "state": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              }
+            },
+            {
+              "id": "ae0aed29d208c352",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "outgoing-link",
+                "state": {
+                  "linksCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "horizontal",
+      "width": 326.5,
+      "collapsed": true
+    },
+    "left-ribbon": {
+      "hiddenItems": {
+        "daily-notes:Open today's daily note": false,
+        "publish:Publish changes...": false,
+        "switcher:Open quick switcher": false,
+        "command-palette:Open command palette": false,
+        "templates:Insert template": false,
+        "workspaces:Manage workspace layouts": false,
+        "graph:Open graph view": false,
+        "canvas:Create new canvas": false,
+        "periodic-notes:Open today's daily note": false,
+        "obsidian-custom-frames:Open ChatGPT--": false,
+        "obsidian-custom-frames:Open LexTest": false,
+        "markdown-table-editor:Open Markdown Table Editor": false,
+        "obsidian-advanced-slides:Show Slide Preview": false,
+        "darlal-switcher-plus:Open in Headings Mode": false,
+        "darlal-switcher-plus:Open Symbols for the active editor": false,
+        "dangerzone-writing-plugin:Dangerzone Writing": false,
+        "prompt:Show a random prompt": false,
+        "obsidian-book-search-plugin:Create new book note": false,
+        "obsidian-file-info-plugin:File Info Panel": false,
+        "cmdr:Toggle stacked tabs": false,
+        "obsidian-projects:Open projects": false,
+        "file-tree-alternative:File Tree Alternative Plugin": false,
+        "obsidian-excalidraw-plugin:Create new drawing": false
+      }
+    },
+    "active": "ae3f2dfe7bb3ed31"
+  },
+  "Journal View": {
+    "main": {
+      "id": "c4f7fdb608baf8e1",
+      "type": "split",
+      "children": [
+        {
+          "id": "634921cbea09ea9f",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "ae3f2dfe7bb3ed31",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "empty",
+                "state": {}
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "vertical"
+    },
+    "left": {
+      "id": "440b3841429709ed",
+      "type": "split",
+      "children": [
+        {
+          "id": "b208c03cadd231ee",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "dddbab8b18fd423a",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "file-explorer",
+                "state": {
+                  "sortOrder": "byModifiedTime"
+                }
+              }
+            },
+            {
+              "id": "77966b04a7f238ed",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "search",
+                "state": {
+                  "query": "",
+                  "matchingCase": true,
+                  "explainSearch": false,
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "byModifiedTime"
+                }
+              }
+            },
+            {
+              "id": "f2f067fa401a0574",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "recent-files",
+                "state": {}
+              }
+            },
+            {
+              "id": "94123a5a32c35466",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "bookmarks",
+                "state": {}
+              }
+            },
+            {
+              "id": "1dc0cb1cebc39098",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "calendar",
+                "state": {}
+              }
+            },
+            {
+              "id": "24c5234b551bc15b",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "file-tree-view",
+                "state": {}
+              }
+            },
+            {
+              "id": "ea94a81f83ae39f4",
+              "type": "leaf",
+              "state": {
+                "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+                "state": {}
+              }
+            }
+          ],
+          "currentTab": 5
+        }
+      ],
+      "direction": "horizontal",
+      "width": 297.5172233581543
+    },
+    "right": {
+      "id": "7a43a6c530e72e44",
+      "type": "split",
+      "children": [
+        {
+          "id": "ea89fdbc5439f479",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "4f6e4ddebde66a86",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "tag",
+                "state": {
+                  "sortOrder": "alphabetical",
+                  "useHierarchy": true
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "53bf6d97e5774261",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "4fd5ddab0d74cf4f",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "localgraph",
+                "state": {
+                  "options": {
+                    "collapse-filter": false,
+                    "search": "",
+                    "localJumps": 2,
+                    "localBacklinks": true,
+                    "localForelinks": true,
+                    "localInterlinks": true,
+                    "showTags": true,
+                    "showAttachments": true,
+                    "hideUnresolved": false,
+                    "collapse-color-groups": false,
+                    "colorGroups": [
+                      {
+                        "query": "tag:#effort",
+                        "color": {
+                          "a": 1,
+                          "rgb": 16753485
+                        }
+                      },
+                      {
+                        "query": "tag:#source",
+                        "color": {
+                          "a": 1,
+                          "rgb": 5402336
+                        }
+                      },
+                      {
+                        "query": "tag:#output",
+                        "color": {
+                          "a": 1,
+                          "rgb": 16735324
+                        }
+                      },
+                      {
+                        "query": "tag:#note",
+                        "color": {
+                          "a": 1,
+                          "rgb": 5431378
+                        }
+                      },
+                      {
+                        "query": "tag:#people",
+                        "color": {
+                          "a": 1,
+                          "rgb": 16743138
+                        }
+                      }
+                    ],
+                    "collapse-display": false,
+                    "showArrow": false,
+                    "textFadeMultiplier": -1,
+                    "nodeSizeMultiplier": 1,
+                    "lineSizeMultiplier": 1,
+                    "collapse-forces": false,
+                    "centerStrength": 0.518713248970312,
+                    "repelStrength": 10,
+                    "linkStrength": 1,
+                    "linkDistance": 250,
+                    "scale": 0.4275106077008007,
+                    "close": true
+                  }
+                }
+              }
+            },
+            {
+              "id": "90d026528dc7103b",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "outline",
+                "state": {}
+              }
+            }
+          ]
+        },
+        {
+          "id": "56111b6032390be0",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "d535bd36dbc98e0b",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "backlink",
+                "state": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              }
+            },
+            {
+              "id": "ae0aed29d208c352",
+              "type": "leaf",
+              "pane-relief:history-v1": {
+                "pos": 0,
+                "stack": [
+                  {
+                    "state": "{}",
+                    "eState": "{}"
+                  }
+                ]
+              },
+              "state": {
+                "type": "outgoing-link",
+                "state": {
+                  "linksCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "horizontal",
+      "width": 326.5,
+      "collapsed": true
+    },
+    "left-ribbon": {
+      "hiddenItems": {
+        "daily-notes:Open today's daily note": false,
+        "publish:Publish changes...": false,
+        "switcher:Open quick switcher": false,
+        "command-palette:Open command palette": false,
+        "templates:Insert template": false,
+        "workspaces:Manage workspace layouts": false,
+        "graph:Open graph view": false,
+        "canvas:Create new canvas": false,
+        "periodic-notes:Open today's daily note": false,
+        "obsidian-custom-frames:Open ChatGPT--": false,
+        "obsidian-custom-frames:Open LexTest": false,
+        "markdown-table-editor:Open Markdown Table Editor": false,
+        "obsidian-advanced-slides:Show Slide Preview": false,
+        "darlal-switcher-plus:Open in Headings Mode": false,
+        "darlal-switcher-plus:Open Symbols for the active editor": false,
+        "dangerzone-writing-plugin:Dangerzone Writing": false,
+        "prompt:Show a random prompt": false,
+        "obsidian-book-search-plugin:Create new book note": false,
+        "obsidian-file-info-plugin:File Info Panel": false,
+        "cmdr:Toggle stacked tabs": false,
+        "obsidian-projects:Open projects": false,
+        "file-tree-alternative:File Tree Alternative Plugin": false,
+        "obsidian-excalidraw-plugin:Create new drawing": false
+      }
+    },
+    "active": "ae3f2dfe7bb3ed31"
+  }
+}

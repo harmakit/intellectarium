@@ -1,0 +1,88 @@
+/* 
+Author: TfTHacker - more info  https://tfthacker.com/banner-image
+Date:   2023-07-07
+LICENSE: Copyright © 2023 TfThacker. Permission is granted to modify and distribute 
+copies of this CSS file, that credit is given to TfThacker (https://tfthacker.com/) and 
+the banner image source (https://tfthacker.com/banner-image) remains linked and credited.  
+*/
+
+:root {
+    --banner-image-height: 150px;
+}
+
+.banner-image .markdown-preview-section {
+    margin-top: var(--banner-image-height) !important;
+}
+
+.show-view-header div:not(.markdown-embed-content) > .markdown-preview-view:is(.banner-imageright):has([data-callout="banner-image"]) {
+    padding-top: 0px;
+}
+
+
+.banner-image.markdown-preview-view [data-callout="banner-image"] {
+    position: absolute; 
+    top: 0;
+    left: 0;
+    right: 0; 
+    height: var(--banner-image-height) !important; 
+    margin: 0px !important;
+    padding: 0px;
+    background-color: transparent;
+    border: 0px !important;
+    border-radius: unset !important;
+    
+    .callout-icon {
+        display: none;
+    }
+    .callout-title {
+        padding: 0px !important;
+        border: 0px !important;
+    }
+
+    .callout-title-inner {
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+}
+
+.banner-image.markdown-preview-view [data-callout="banner-image"] img {
+    min-height: var(--banner-image-height) !important; 
+    width: 100%; 
+    object-fit: fill;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.banner-image [data-callout="banner-image"] {
+    .callout-icon {
+        display: none;
+    }
+}
+
+@media print {
+    [data-callout="banner-image"] {
+        position: unset !important;
+        top: unset !important
+    }
+
+    .banner-no-print [data-callout="banner-image"] {
+        display: none;
+    }
+}
+
+
+
+.prism-theme .callout[data-callout="summary-top"] > .callout-title {
+    color: var(--color-blue-text);
+    background-color: var(--color-blue-base);
+    border-color: var(--color-blue-tint);
+}
+
+.prism-theme .callout[data-callout="summary-top"] > .callout-title .callout-icon .svg-icon {
+    color: var(--color-blue-text);
+}
+
+.prism-theme .callout[data-callout="summary-top"] > .callout-content {
+    background-color: hsla(var(--color-blue-base-hsl), var(--callout-background-alpha));
+    border-color: var(--color-blue-tint);
+}

@@ -1,0 +1,23 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "URL": "text",
+    "": "text",
+    "modifiedd": "date",
+    "createdd": "date",
+    "URLs": "multitext",
+    "date": "date",
+    "top": "multitext",
+    "related": "multitext",
+    "down": "multitext",
+    "created": "date",
+    "premiered": "date",
+    "published": "date",
+    "year": "number",
+    "encountered": "date",
+    "people": "multitext",
+    "evolved": "date"
+  }
+}

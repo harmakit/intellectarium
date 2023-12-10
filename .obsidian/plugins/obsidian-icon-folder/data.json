@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🚫",
+      "✅",
+      "🏋️‍♂️",
+      "🗂",
+      "🗺",
+      "🛠",
+      "📅",
+      "🗓",
+      "📓",
+      "📝",
+      "🗒",
+      "💭",
+      "〰",
+      "LiStopCircle",
+      "LiWaves"
+    ],
+    "recentlyUsedIconsSize": 15,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Календарь/Записи": "📅",
+  "Календарь/Логи": "📓",
+  "Атлас/Утилиты": "🛠",
+  "Атлас/Карты": "🗺",
+  "Атлас/Заметки": "🗂",
+  "Занятия/TODO": "📝",
+  "Занятия/В Фоне": "〰",
+  "Занятия/Непрерывное": "♻",
+  "Занятия/Спящее": "💤",
+  "Занятия/В Процессе": "🔥",
+  "Занятия/Завершенное": "✅",
+  "Занятия/Отмененное": "🚫"
+}

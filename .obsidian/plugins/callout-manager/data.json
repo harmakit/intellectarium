@@ -1,0 +1,83 @@
+{
+  "callouts": {
+    "custom": [
+      "iconref-a",
+      "icon-ref-b",
+      "context"
+    ],
+    "settings": {
+      "note": [
+        {
+          "changes": {
+            "icon": "lucide-file-text",
+            "color": "134, 142, 150"
+          }
+        }
+      ],
+      "help": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 128, 183"
+          }
+        }
+      ],
+      "bikee": [
+        {
+          "changes": {
+            "icon": "lucide-trees",
+            "color": "46, 178, 92"
+          }
+        }
+      ],
+      "watch": [
+        {
+          "changes": {
+            "icon": "lucide-watch"
+          }
+        }
+      ],
+      "iconref-a": [
+        {
+          "changes": {
+            "icon": "lucide-trees",
+            "color": "216, 125, 206"
+          }
+        }
+      ],
+      "icon-ref-b": [
+        {
+          "changes": {
+            "icon": "lucide-boxes",
+            "color": "211, 120, 208"
+          }
+        }
+      ],
+      "context": [
+        {
+          "changes": {
+            "icon": "lucide-view",
+            "color": "123, 147, 173"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

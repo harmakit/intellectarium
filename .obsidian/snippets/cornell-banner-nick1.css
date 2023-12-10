@@ -1,0 +1,42 @@
+/* 
+Author: TfTHacker - more info  https://tfthacker.com/banner-image
+Date:   2022-12-08
+LICENSE: Copyright © 2023 TfThacker. Permission is granted to modify and distribute 
+copies of this CSS file, that credit is given to TfThacker (https://tfthacker.com/) and 
+the banner image source (https://tfthacker.com/banner-image) remains linked and credited.  
+*/
+
+:root {
+    --banner-image-height: 150px;
+}
+
+.banner-image .markdown-preview-section {
+    margin-top: var(--banner-image-height) !important;
+}
+
+.banner-image.markdown-preview-view [data-callout="banner-image"] {
+    position: absolute; 
+    top: 0;
+    left: 0;
+    right: 0; 
+    height: var(--banner-image-height) !important; 
+    margin: 0px !important;
+    padding: 0px;
+    background-color: transparent;
+    
+    .callout-icon {
+        display: none;
+    }
+}
+
+.banner-image.markdown-preview-view [data-callout="banner-image"] img {
+    min-height: var(--banner-image-height) !important; 
+    width: 100%; 
+    object-fit: fill;
+}
+
+.banner-image [data-callout="banner-image"] {
+    .callout-icon {
+        display: none;
+    }
+}
